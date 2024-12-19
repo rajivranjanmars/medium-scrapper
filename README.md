@@ -51,14 +51,14 @@ For Medium, the JSON data of the scraped content will be returned:
 ```json
 [
   {
-    "text": "Article Title 1",
-    "href": "https://medium.com/@username/article-title-1",
-    "imgSrc": "https://example.com/image1.jpg"
+    "title": "Article Title 1",
+    "article_link": "https://medium.com/@username/article-title-1",
+    "cover_image": "https://example.com/image1.jpg"
   },
   {
-    "text": "Article Title 2",
-    "href": "https://medium.com/@username/article-title-2",
-    "imgSrc": "https://example.com/image2.jpg"
+    "title": "Article Title 2",
+    "article_link": "https://medium.com/@username/article-title-2",
+    "cover_image": "https://example.com/image2.jpg"
   }
 ]
 ```
