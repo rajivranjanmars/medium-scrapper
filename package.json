@@ -1,0 +1,14 @@
+{
+  "name": "ec-scrapper",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "start": "bun run index.ts",
+    "start:pm2": "pm2 start bun --name ec-scrapper -- run index.ts"
+  },
+  "dependencies": {
+    "bun": "^1.1.40",
+    "node-html-parser": "^6.1.13",
+    "pm2": "^5.4.3"
+  }
+}
