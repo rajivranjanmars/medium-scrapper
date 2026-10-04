@@ -10,5 +10,9 @@
     "bun": "^1.1.40",
     "node-html-parser": "^6.1.13",
     "pm2": "^5.4.3"
+  },
+  "author": {
+    "name": "rajivranjanmars",
+    "url": "https://rajivranjana.in"
   }
 }

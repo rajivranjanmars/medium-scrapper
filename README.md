@@ -79,3 +79,8 @@ For Substack, the JSON data of the scraped content will be returned:
   }
 ]
 ```
+
+
+## Author
+
+[rajivranjanmars](https://rajivranjana.in)
