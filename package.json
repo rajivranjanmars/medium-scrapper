@@ -9,7 +9,7 @@
   "dependencies": {
     "bun": "^1.1.40",
     "node-html-parser": "^9.0.4",
-    "pm2": "^5.4.3"
+    "pm2": "^7.0.4"
   },
   "author": {
     "name": "rajivranjanmars",
